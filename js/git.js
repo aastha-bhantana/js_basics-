@@ -58,4 +58,7 @@
 //? git merge <branch_name> -> merge branch into current branch
 //? git status -> check for conflicts
 //? git add <file_path> -> mark conflict as resolved
-//? git commit -m "<commit_message>" -> commit the merge
+//? git commit -m "<commit_message>" -> commit the merge 
+
+
+
