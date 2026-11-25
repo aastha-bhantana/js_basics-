@@ -29,8 +29,8 @@ var d;
 let e;
 const f=523; //const variable must be initialized at the time of declaration
 
-//*variable naming convention
-// let username= "John";
+*variable naming convention
+let username= "aasthaaaaa";
 
 // camelCase
 let userName= "John";
