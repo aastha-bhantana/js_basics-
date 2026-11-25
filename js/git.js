@@ -54,11 +54,23 @@
 // main: a -> b -> c -> d -> e -> f -> merge commit 
 
 
-//*  merge conflict
-//? git merge <branch_name> -> merge branch into current branch
-//? git status -> check for conflicts
-//? git add <file_path> -> mark conflict as resolved
-//? git commit -m "<commit_message>" -> commit the merge 
+//* merge conflict
+
+//* remote 
+//? git remote -v -> list all remote repo
+//? git remote add origin <origin_url> -> add remote repo
+//? git remote remove origin -> remove remote repo
+
+
+//* push
+//? git push origin <branch_name> -> push local branch to remote repo
+
+
+//? git pull origin <branch_name> -> pull remote branch to local repo
+
+
+
+
 
 
 
