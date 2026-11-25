@@ -68,6 +68,7 @@
 
 //? git pull origin <branch_name> -> pull remote branch to local repo
 
+//? git log main..origin/main -> list all commits in remote branch that are not in local branch
 
 
 
